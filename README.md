@@ -58,7 +58,7 @@ On Linux (Debian/Ubuntu): sudo apt-get install clustalo
 
 Using the Conservation Analyser
 
-Start the Application: Navigate to the directory containing your ConservationAnalyzer.py script. Ensure your virtual environment is activated, and start the application by running: 
+Start the Application: Navigate to the directory containing your ConservationAnalyser.py script. Ensure your virtual environment is activated, and start the application by running: 
 
 python3 ConservationAnalyser.py
 
@@ -68,7 +68,7 @@ Set Parameters: Enter values for the conservation and mutation thresholds (0-1).
 
 Choose Aligner: Select either MAFFT or Clustal Omega as the aligner. Ensure the chosen aligner is installed and accessible from your system's PATH.
 
-Analyse: Click the "Analyze" button to perform the sequence conservation analysis. The application will display conserved and mutated sites, overall conservation rate, and statistical significance (p-values).
+Analyse: Click the "Analyse" button to perform the sequence conservation analysis. The application will display conserved and mutated sites, overall conservation rate, and statistical significance (p-values).
 
 View Results: The conserved and mutated sites will be listed in separate tables within the application. Additionally, a plot of conservation rates across the alignment will be displayed.
 
