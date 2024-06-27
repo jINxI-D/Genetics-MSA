@@ -88,6 +88,6 @@ Python or PyQt5 Errors: Make sure you have the correct versions of Python and Py
 
 Other Issues: Check the console output for error messages. They can provide valuable clues about what might be going wrong.
 
-By following this guide, you should be able to set up your environment, run the Conservation Analyzer, and start analysing sequence conservation with ease.
+By following this guide, you should be able to set up your environment, run the Conservation Analyser, and start analysing sequence conservation with ease.
 
 
